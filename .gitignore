@@ -1,3 +1,4 @@
+xinfra/docker/data/
 .DS_Store
 xinfra/docker/*.jar
 HELP.md
@@ -37,3 +38,5 @@ out/
 
 ### VS Code ###
 .vscode/
+
+/xinfra/docker/.env
